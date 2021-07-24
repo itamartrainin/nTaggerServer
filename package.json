@@ -1,0 +1,21 @@
+{
+  "name": "taggerserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "js-levenshtein": "^1.1.6",
+    "levenshtein": "^1.0.5",
+    "mongodb": "^3.5.5",
+    "nodemon": "^2.0.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
